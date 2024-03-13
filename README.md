@@ -14,5 +14,5 @@ Heapsort adalah algoritma pengurutan berbasis perbandingan yang membangun sebuah
 ## Implementasi
 
 ```python
-https://github.com/RvnZe/Heapsort-Algorithm/edit/main/SourceCode_Heapsort/heapsort.py
+https://github.com/RvnZe/Heapsort-Algorithm/SourceCode_Heapsort/heapsort.py
 ```
