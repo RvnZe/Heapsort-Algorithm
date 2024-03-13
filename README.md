@@ -11,4 +11,4 @@ Heapsort adalah algoritma pengurutan berbasis perbandingan yang membangun sebuah
 
 ## Implementasi
 
-([https://github.com/RvnZe/Heapsort-Algorithm/Screenshot_Heapsort.jpg](https://github.com/RvnZe/Heapsort-Algorithm/blob/main/Screenshot_Heapsort.jpg)https://github.com/RvnZe/Heapsort-Algorithm/blob/main/Screenshot_Heapsort.jpg)
+![Heapshort](https://github.com/RvnZe/Heapsort-Algorithm/blob/main/Screenshot_Heapsort.jpg)
