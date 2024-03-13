@@ -1,5 +1,3 @@
-Berikut adalah penjelasan tentang Heapsort dalam bahasa Indonesia:
-
 # Heapsort
 
 Heapsort adalah algoritma pengurutan berbasis perbandingan yang membangun sebuah heap biner dari array input yang diberikan dan kemudian berulang kali mengekstrak elemen maksimum dari heap dan membangun kembali heap hingga array tersebut terurut.
@@ -13,4 +11,4 @@ Heapsort adalah algoritma pengurutan berbasis perbandingan yang membangun sebuah
 
 ## Implementasi
 
-![Heapsort](https://github.com/RvnZe/Heapsort-Algorithm/screenshot_heapshort.jpg)
+![Heapsort](https://github.com/RvnZe/Heapsort-Algorithm/Screenshot_Heapsort.jpg)
